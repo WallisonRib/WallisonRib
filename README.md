@@ -20,7 +20,7 @@ Welcome to my repository, enjoy the journey!</p>
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,laravel,figma,git,mongodb,mysql,postman
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,figma,git,mongodb,mysql,postman
 )](https://skillicons.dev) 
   </div>
   
