@@ -24,5 +24,3 @@ Welcome to my repository, enjoy the journey!</p>
 )](https://skillicons.dev) 
   </div>
   
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallisonRib&show_icons=true&theme=radical)
