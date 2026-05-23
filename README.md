@@ -72,8 +72,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WallisonRib&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallisonRib&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=8B949E&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallisonRib&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=8B949E&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="300" alt="GitHub Streak" />
 </div>
 
 ###
