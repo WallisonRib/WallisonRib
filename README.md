@@ -71,7 +71,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallisonRib&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=8B949E&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="300" alt="GitHub Streak" />
 </div>
 
