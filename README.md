@@ -30,8 +30,7 @@
 <p align="left">
   ✨ Full Stack Developer focused on building robust backend solutions and complex business logic for enterprise systems.<br>
   📚 Currently pursuing a degree in Analysis and Systems Development and exploring AI-driven workflow automation.<br>
-  🎯 Goals: Architecting highly optimized cloud infrastructures and orchestrating seamless API integrations.<br>
-  🎲 Fun fact: When I'm not optimizing Docker containers or AWS deployments, you can probably find me at a 5 AM gym session or practicing on my guitar.
+  🎯 Goals: Architecting highly optimized cloud infrastructures and orchestrating scalable, automated systems.<br>
 </p>
 
 ###
@@ -69,5 +68,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
 </div>
+
+###
+
+<p align="left"><i>...and more!</i></p>
 
 ###
