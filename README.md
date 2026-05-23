@@ -1,34 +1,73 @@
-<h1> Hi, I'm Wallison Ribeiro Santos 💻</h1>
-
-<div> 
-     <a href="https://instagram.com/wallisonrib" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-     <a href = "mailto:ribeirosantoswallison@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-     <a href="https://www.linkedin.com/in/wallisonribeirosantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href="https://wa.me/++5538999011905" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- </div>
-<h2 align="left">
-I'm an developer fascinated by technology.</h2>
-
-
-Since my childhood, when I first encountered technology, I was completely convinced that I had finally found the perfect blend of fun and work.
-
-Welcome to my repository, enjoy the journey!</p>
-
-<p>You can contact me by email:<a href="mailto:ribeirosantoswallison@gmail.com"> ribeirosantoswallison@gmail.com</a>.</p> 
-<br>
-
-<p>I have knowledge in: </p>
 <div align="left">
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,next,php,figma,git,mongodb,mysql,postman,
-)](https://skillicons.dev) 
+  <a href="https://www.linkedin.com/in/wallisonribeirosantos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/wallisonrib/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5538999011905" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:ribeirosantoswallison@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
-  
-  <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=WallisonRib&theme=dark&hide_border=true"
-        alt="Github Stats"
-      />
-    </td>
+
+###
+
+<h1 align="left">Hey, welcome to my repository.</h1>
+
+###
+
+<p align="left">Since my childhood, when I first encountered technology, I was completely convinced that I had finally found the perfect blend of fun and work.<br><br>Welcome to my repository, enjoy the journey!</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+  ✨ Full Stack Developer focused on building robust backend solutions and complex business logic for enterprise systems.<br>
+  📚 Currently pursuing a degree in Analysis and Systems Development and exploring AI-driven workflow automation.<br>
+  🎯 Goals: Architecting highly optimized cloud infrastructures and orchestrating seamless API integrations.<br>
+  🎲 Fun fact: When I'm not optimizing Docker containers or AWS deployments, you can probably find me at a 5 AM gym session or practicing on my guitar.
+</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
+</div>
+
+###
